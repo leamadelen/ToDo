@@ -1,3 +1,6 @@
+A group-project from the subject DAT310 Webprogramming while pursuing a bachelors degree at University of Stavanger. Main goal of the project was to make a website. This website is for adding tasks/ToDo's, setting reminders for when they need to be done etc.
+
+Grade: A
 
 # How To Run:
 
